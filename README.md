@@ -25,3 +25,7 @@ Aplicació Android feta amb **Kotlin** i **Jetpack Compose** que permet consulta
 - [x] Es veuen les dades inicials de Laia Soler.
 - [x] Editar i **Guardar canvis** actualitza el perfil.
 - [x] **Cancel·lar** manté el valor anterior.
+
+<img width="945" height="2048" alt="WhatsApp Image 2026-10-22 at 5 26 36 PM" src="https://github.com/user-attachments/assets/2981126a-d901-4d4e-bf53-e6b9304579b7" />
+<img width="945" height="2048" alt="WhatsApp Image 2026-10-22 at 5 10 00 PMe3" src="https://github.com/user-attachments/assets/ac60158d-4c18-44d6-ae17-4938bcc858a9" />
+
